@@ -4,7 +4,7 @@ Post Oak Labs builds **verifiable work infrastructure** — deterministic tools 
 
 | Suite | Focus | Live site | MCP endpoint | Proof point |
 |---|---|---|---|---|
-| **[AINumbers.co](https://ainumbers.co)** | Markets & institutions — fintech compliance tools | [ainumbers.co](https://ainumbers.co) | `mcp.ainumbers.co/mcp` | Receipts carry real groth16 compute proofs (287 of 288 gpu:false kernels proven) |
+| **[AINumbers.co](https://ainumbers.co)** | Markets & institutions — fintech compliance tools | [ainumbers.co](https://ainumbers.co) | `mcp.ainumbers.co/mcp` | Receipts carry real groth16 compute proofs (298 of 299 gpu:false kernels proven) |
 | **[ApexLogics.org](https://apexlogics.org)** | Deterministic decision engines for people, creators, and agents | [apexlogics.org](https://apexlogics.org) | `mcp.apexlogics.org` | 8 of 31 kernels zk-proven |
 | **[OmegaCentauri.me](https://omegacentauri.me)** | Science & evidence — astrophysics evidence evaluation | [omegacentauri.me](https://omegacentauri.me) | `mcp.omegacentauri.me/mcp` | 7 of 7 kernels zk-proven |
 
